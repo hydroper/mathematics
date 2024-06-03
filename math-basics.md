@@ -157,4 +157,4 @@ $$
 
 #### Average
 
-Tip: calculate the average of a column series by thinking on (**part / total**) **\/ numColumns**.
+Tip: calculate the average of a column series by thinking on (sum of every **part / total**) **\/ numColumns**.
