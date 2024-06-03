@@ -154,3 +154,7 @@ $$
 
 - **Collectively exhaustive:** Complete as a group
 - **Mutually exclusive:** Independent from each other or only one element of a set ends up as outcome
+
+#### Average
+
+Tip: calculate the average of a column series by thinking on (**part / total**) **\/ numColumn**.
