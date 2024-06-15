@@ -1,1 +1,1 @@
-# Web and Mathematics notes
+# Mathematics notes
